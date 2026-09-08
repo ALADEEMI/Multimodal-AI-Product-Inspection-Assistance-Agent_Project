@@ -1,0 +1,293 @@
+sample_id,image_path,generated_text,is_complaint,problem_type,defect_type,severity,mask_path,split,generator_version,seed
+good_000_145532cf,data/raw/mvtec/bottle/bottle/train/good/000.png,المنتج وصل بحالة ممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,2433306362
+good_001_d52520ee,data/raw/mvtec/bottle/bottle/train/good/001.png,كل شيء تمام لا يوجد مشاكل 👌👌,False,Other,good,Low,,train,v1.0.0,2007681144
+good_002_c6761b6f,data/raw/mvtec/bottle/bottle/train/good/002.png,المنتج مطابق للوصف وبحالة ممتازة,False,Other,good,Low,,train,v1.0.0,199299981
+good_003_35101dab,data/raw/mvtec/bottle/bottle/train/good/003.png,"Everything is fine, no issuessss 😊",False,Other,good,Low,,train,v1.0.0,2235316455
+good_004_763336a0,data/raw/mvtec/bottle/bottle/train/good/004.png,كل شيء تممممام، لا يوجد مشاكل 💯😊,False,Other,good,Low,,train,v1.0.0,1335605084
+good_005_bf598f21,data/raw/mvtec/bottle/bottle/train/good/005.png,المنتج وصل بحالة ممتازة، شكراًً ✨💯,False,Other,good,Low,,train,v1.0.0,368432349
+good_006_74f9e27f,data/raw/mvtec/bottle/bottle/train/good/006.png,"Everything is fine, no issues",False,Other,good,Low,,train,v1.0.0,3855130628
+good_007_0ebf93c0,data/raw/mvtec/bottle/bottle/train/good/007.png,"Prroduct arrived in excellennt condition, thannnk you",False,Other,good,Low,,train,v1.0.0,2738287147
+good_008_2c7b2684,data/raw/mvtec/bottle/bottle/train/good/008.png,المنتج ووووصل بحالة ممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,2407036501
+good_009_59a488d9,data/raw/mvtec/bottle/bottle/train/good/009.png,"Prrrroduct arrived in excellent condition, thank you ❤️",False,Other,good,Low,,train,v1.0.0,3423449612
+good_010_c92893e8,data/raw/mvtec/bottle/bottle/train/good/010.png,Product matches description and is in perfect condition 😊✨,False,Other,good,Low,,train,v1.0.0,3044478156
+good_011_26836193,data/raw/mvtec/bottle/bottle/train/good/011.png,المنتج ووصل بحالة ممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,3434695829
+good_012_df4e12aa,data/raw/mvtec/bottle/bottle/train/good/012.png,Bottle is intact and qualty is good,False,Other,good,Low,,train,v1.0.0,1143960498
+good_013_3a2733fc,data/raw/mvtec/bottle/bottle/train/good/013.png,"Everything is fine, no issuees",False,Other,good,Low,,train,v1.0.0,218569037
+good_014_ff98a88b,data/raw/mvtec/bottle/bottle/train/good/014.png,Bottle is intact and quaaaality is good,False,Other,good,Low,,train,v1.0.0,866450291
+good_015_c2332021,data/raw/mvtec/bottle/bottle/train/good/015.png,الزجاجة سليمة وجودتها جيدة 😊,False,Other,good,Low,,train,v1.0.0,4169288390
+good_016_4e7d7bb5,data/raw/mvtec/bottle/bottle/train/good/016.png,المنتج وصل بحالة ممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,2257696800
+good_017_39d76978,data/raw/mvtec/bottle/bottle/train/good/017.png,booootle is intact aand quality is good,False,Other,good,Low,,train,v1.0.0,2185795061
+good_018_8c031bd4,data/raw/mvtec/bottle/bottle/train/good/018.png,"prduct arrived in excellent coondition, thank you",False,Other,good,Low,,train,v1.0.0,4244571146
+good_019_70193423,data/raw/mvtec/bottle/bottle/train/good/019.png,Product matttches description annnd is in perfect condition 😊😊,False,Other,good,Low,,train,v1.0.0,2067514567
+good_020_a651de5c,data/raw/mvtec/bottle/bottle/train/good/020.png,المنتج وصل بحالة ممتازة شكراً,False,Other,good,Low,,train,v1.0.0,1202429927
+good_021_07702ff3,data/raw/mvtec/bottle/bottle/train/good/021.png,المنتج وصل بحالة ممتازةةةة، شكراً 👌,False,Other,good,Low,,train,v1.0.0,1181533216
+good_022_e8bd2380,data/raw/mvtec/bottle/bottle/train/good/022.png,"Everything is fine, no issues",False,Other,good,Low,,train,v1.0.0,3248665389
+good_023_83cd8e82,data/raw/mvtec/bottle/bottle/train/good/023.png,Bottle is intact and qualty is good,False,Other,good,Low,,train,v1.0.0,2817384453
+good_024_737ff91e,data/raw/mvtec/bottle/bottle/train/good/024.png,"Everything is fine, no issues",False,Other,good,Low,,train,v1.0.0,3764107257
+good_025_9eabffaa,data/raw/mvtec/bottle/bottle/train/good/025.png,المنتج وصل بحاله مممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,1739654674
+good_026_4da4ad52,data/raw/mvtec/bottle/bottle/train/good/026.png,Bottle is intact aand quality is good,False,Other,good,Low,,train,v1.0.0,3883957486
+good_027_d39d416d,data/raw/mvtec/bottle/bottle/train/good/027.png,Product arrived in excellent condition thank you,False,Other,good,Low,,train,v1.0.0,3144789931
+good_028_61da6ee5,data/raw/mvtec/bottle/bottle/train/good/028.png,Bottle is intact and qualty is gooddd,False,Other,good,Low,,train,v1.0.0,976891268
+good_029_c5dbb17e,data/raw/mvtec/bottle/bottle/train/good/029.png,كل شيء تمام لا يوجددد مشاكل,False,Other,good,Low,,train,v1.0.0,3516868760
+good_030_9f32eea5,data/raw/mvtec/bottle/bottle/train/good/030.png,المنتج وصل بحالة ممتازة، شكراً 💯👌,False,Other,good,Low,,train,v1.0.0,134526633
+good_031_6c50188e,data/raw/mvtec/bottle/bottle/train/good/031.png,Bottle is intact and quality is good,False,Other,good,Low,,train,v1.0.0,4096674996
+good_032_736cc5df,data/raw/mvtec/bottle/bottle/train/good/032.png,"Everything is fine, no issues",False,Other,good,Low,,train,v1.0.0,1085119404
+good_033_91e180a6,data/raw/mvtec/bottle/bottle/train/good/033.png,"Everything is fine, no issues 💯👍",False,Other,good,Low,,train,v1.0.0,544621338
+good_034_4de88670,data/raw/mvtec/bottle/bottle/train/good/034.png,المنتج وصل بحالة ممتازة شكراً 👌,False,Other,good,Low,,train,v1.0.0,844942411
+good_035_ab30397c,data/raw/mvtec/bottle/bottle/train/good/035.png,اللللمنتج مطابق للوصف وبحالة ممتازة,False,Other,good,Low,,train,v1.0.0,63239192
+good_036_2b7960f2,data/raw/mvtec/bottle/bottle/train/good/036.png,المنتج وصل بحالة ممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,2152050291
+good_037_5d2b869d,data/raw/mvtec/bottle/bottle/train/good/037.png,Everything is fine no issues,False,Other,good,Low,,train,v1.0.0,2918008731
+good_038_0119ca79,data/raw/mvtec/bottle/bottle/train/good/038.png,"Product arrived in excellent conditiiiion, thank you 👍",False,Other,good,Low,,train,v1.0.0,2465850685
+good_039_551b43c4,data/raw/mvtec/bottle/bottle/train/good/039.png,الزجاجة سليمممة وجودتها جييدة,False,Other,good,Low,,train,v1.0.0,1851096184
+good_040_2ced7801,data/raw/mvtec/bottle/bottle/train/good/040.png,الزجاجة سليمه وجودتها جىدة,False,Other,good,Low,,train,v1.0.0,3247913272
+good_041_3a23d7f6,data/raw/mvtec/bottle/bottle/train/good/041.png,الززززجاجة سليممممة وجودتها جيدة,False,Other,good,Low,,train,v1.0.0,1750926296
+good_042_af965152,data/raw/mvtec/bottle/bottle/train/good/042.png,كل شيء تمام، لا يوجد مشاكل,False,Other,good,Low,,train,v1.0.0,1888705776
+good_043_39a52fe7,data/raw/mvtec/bottle/bottle/train/good/043.png,"Prrroduct arrived in excellenttt condition, thank you",False,Other,good,Low,,train,v1.0.0,3862474752
+good_044_3209073e,data/raw/mvtec/bottle/bottle/train/good/044.png,الزجاجه سلىمة وجودتها جيدة,False,Other,good,Low,,train,v1.0.0,3005888017
+good_045_0f2de76d,data/raw/mvtec/bottle/bottle/train/good/045.png,"Product arrivvvved in excellent condition, thank you",False,Other,good,Low,,train,v1.0.0,2518858653
+good_046_4ba02a76,data/raw/mvtec/bottle/bottle/train/good/046.png,كل شىء تمام، لا ىوجد مشاكل,False,Other,good,Low,,train,v1.0.0,3554846070
+good_047_95b3aa63,data/raw/mvtec/bottle/bottle/train/good/047.png,الزجاجة سليمه وجودتها جججيدة 💯,False,Other,good,Low,,train,v1.0.0,1829258631
+good_048_04e2232c,data/raw/mvtec/bottle/bottle/train/good/048.png,كل شيءء تمام، لا يوجد مشاكل,False,Other,good,Low,,train,v1.0.0,905832802
+good_049_94a04134,data/raw/mvtec/bottle/bottle/train/good/049.png,كل شيء تمام، لا يوجد مشاكل ❤️,False,Other,good,Low,,train,v1.0.0,3052186735
+good_050_59e76ada,data/raw/mvtec/bottle/bottle/train/good/050.png,الزجاجة سليمة وجودتها جيدددة,False,Other,good,Low,,train,v1.0.0,3539049065
+good_051_6e361a9d,data/raw/mvtec/bottle/bottle/train/good/051.png,"Everything is finnne, no issues",False,Other,good,Low,,train,v1.0.0,2922573700
+good_052_73baceae,data/raw/mvtec/bottle/bottle/train/good/052.png,كل شىء تمام، لا يوجد مشاككل,False,Other,good,Low,,train,v1.0.0,3255326795
+good_053_e661ac80,data/raw/mvtec/bottle/bottle/train/good/053.png,كل شيء تمام، لا يووووجد مشاكل,False,Other,good,Low,,train,v1.0.0,3430109660
+good_054_9ef0941f,data/raw/mvtec/bottle/bottle/train/good/054.png,كل شيء تماام، لا يوجد مشاكل 💯,False,Other,good,Low,,train,v1.0.0,2443494275
+good_055_3c204ff2,data/raw/mvtec/bottle/bottle/train/good/055.png,كل شيء تمام، لا يوجد مشاكل,False,Other,good,Low,,train,v1.0.0,176504561
+good_056_83eab184,data/raw/mvtec/bottle/bottle/train/good/056.png,المنتج مطابق للوصف وبحالة ممتازة,False,Other,good,Low,,train,v1.0.0,3343555752
+good_057_d94a03bd,data/raw/mvtec/bottle/bottle/train/good/057.png,كل شيء تتتمام، لا يوجد مشاكل,False,Other,good,Low,,train,v1.0.0,1469162490
+good_058_51221628,data/raw/mvtec/bottle/bottle/train/good/058.png,المنتج وصل بببحالة ممتازه،،، شكراً,False,Other,good,Low,,train,v1.0.0,3772336008
+good_059_4ba9a0a1,data/raw/mvtec/bottle/bottle/train/good/059.png,المنتج وصل بحالة ممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,1049569333
+good_060_a16143b4,data/raw/mvtec/bottle/bottle/train/good/060.png,"Everything is fine, no issues",False,Other,good,Low,,train,v1.0.0,2906648710
+good_061_5f818e4e,data/raw/mvtec/bottle/bottle/train/good/061.png,المنتج وصل بحالة ممتازة شكراً,False,Other,good,Low,,train,v1.0.0,3667154193
+good_062_4cb7b372,data/raw/mvtec/bottle/bottle/train/good/062.png,"Everything is fine, no issuess",False,Other,good,Low,,train,v1.0.0,1924432895
+good_063_5a06d2ab,data/raw/mvtec/bottle/bottle/train/good/063.png,الزجاجة سليمة وووجودتها جيدة,False,Other,good,Low,,train,v1.0.0,4034755042
+good_064_4aaa449c,data/raw/mvtec/bottle/bottle/train/good/064.png,المنتج مطابقققق للوصف وبحالة ممتازة,False,Other,good,Low,,train,v1.0.0,3509519696
+good_065_ada9cb83,data/raw/mvtec/bottle/bottle/train/good/065.png,Product matches description and is in perfect coooondition,False,Other,good,Low,,train,v1.0.0,4134598909
+good_066_05ca16ee,data/raw/mvtec/bottle/bottle/train/good/066.png,المنتج وصل بحالةة ممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,3945364852
+good_067_5925256d,data/raw/mvtec/bottle/bottle/train/good/067.png,المنتج مطابقققق للوصف وبحالة ممتازة ❤️👍,False,Other,good,Low,,train,v1.0.0,1427523763
+good_068_c6c620ef,data/raw/mvtec/bottle/bottle/train/good/068.png,Product matches description and is in perrfect condition,False,Other,good,Low,,train,v1.0.0,2682865637
+good_069_b0937cfa,data/raw/mvtec/bottle/bottle/train/good/069.png,المنتج مطابق للوصف وبحالة ممتازة,False,Other,good,Low,,train,v1.0.0,825151745
+good_070_0e04f435,data/raw/mvtec/bottle/bottle/train/good/070.png,Product matches description and is in perfect condition,False,Other,good,Low,,train,v1.0.0,1010616011
+good_071_2104648d,data/raw/mvtec/bottle/bottle/train/good/071.png,المنتج مطاابق للوصف وبحالة ممتازة,False,Other,good,Low,,train,v1.0.0,2981355956
+good_072_41c29be7,data/raw/mvtec/bottle/bottle/train/good/072.png,كل شيء تمام، لا يوجد مشاكل,False,Other,good,Low,,train,v1.0.0,1216674678
+good_073_e7b9b531,data/raw/mvtec/bottle/bottle/train/good/073.png,المنتج وصل بحاله ممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,4058392119
+good_074_37068ef5,data/raw/mvtec/bottle/bottle/train/good/074.png,"Everything is fine, no issues",False,Other,good,Low,,train,v1.0.0,2068221721
+good_075_de26f92f,data/raw/mvtec/bottle/bottle/train/good/075.png,Bottle is intact and quality is good,False,Other,good,Low,,train,v1.0.0,1099663272
+good_076_961659ba,data/raw/mvtec/bottle/bottle/train/good/076.png,اااالمنتج مطابق للوصف وبحالة ممتازة ❤️,False,Other,good,Low,,train,v1.0.0,251587436
+good_077_dc53a054,data/raw/mvtec/bottle/bottle/train/good/077.png,Bottle is intact and quality is good ❤️👌,False,Other,good,Low,,train,v1.0.0,4235793599
+good_078_a2d24f0c,data/raw/mvtec/bottle/bottle/train/good/078.png,Bottle is intact and quality is good,False,Other,good,Low,,train,v1.0.0,3729134556
+good_079_c2650653,data/raw/mvtec/bottle/bottle/train/good/079.png,الزجاجة سليمة وجودتها جييدة,False,Other,good,Low,,train,v1.0.0,1748149455
+good_080_0f87a4fa,data/raw/mvtec/bottle/bottle/train/good/080.png,"Everything is fine, no issues",False,Other,good,Low,,train,v1.0.0,1588589699
+good_081_b1bfaa25,data/raw/mvtec/bottle/bottle/train/good/081.png,المنتج وصل بحالة ممتازة، شكراً 😊✨,False,Other,good,Low,,train,v1.0.0,1558305384
+good_082_701dbd81,data/raw/mvtec/bottle/bottle/train/good/082.png,الزجاجه سليييمة وجودتها جيدة,False,Other,good,Low,,train,v1.0.0,893404021
+good_083_8f47b256,data/raw/mvtec/bottle/bottle/train/good/083.png,"Product arriveddd in excellent condition, thank you 💯",False,Other,good,Low,,train,v1.0.0,1094695448
+good_084_2887d1fc,data/raw/mvtec/bottle/bottle/train/good/084.png,Product matches description and is in perfect condition,False,Other,good,Low,,train,v1.0.0,2529712102
+good_085_280a9dca,data/raw/mvtec/bottle/bottle/train/good/085.png,المنتج مطابق للوصف وبحالة ممتاززة ❤️,False,Other,good,Low,,train,v1.0.0,1263648400
+good_086_23b09960,data/raw/mvtec/bottle/bottle/train/good/086.png,"Everything is fine, no issues",False,Other,good,Low,,train,v1.0.0,1104639033
+good_087_4450500a,data/raw/mvtec/bottle/bottle/train/good/087.png,المنتج وصل بحالة ممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,1053007689
+good_088_b4444993,data/raw/mvtec/bottle/bottle/train/good/088.png,المنتج مطابق للوصف وبحالة ممتازة,False,Other,good,Low,,train,v1.0.0,3083725800
+good_089_a08c95b5,data/raw/mvtec/bottle/bottle/train/good/089.png,Bottle is intact and quality is good,False,Other,good,Low,,train,v1.0.0,2083001903
+good_090_8548fb5e,data/raw/mvtec/bottle/bottle/train/good/090.png,المنتج وصل بحالة ممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,3976488711
+good_091_c363c846,data/raw/mvtec/bottle/bottle/train/good/091.png,Everything is fine no issues,False,Other,good,Low,,train,v1.0.0,2676773615
+good_092_c4262219,data/raw/mvtec/bottle/bottle/train/good/092.png,المنتج وصل بحالة ممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,1278831586
+good_093_2da22e4c,data/raw/mvtec/bottle/bottle/train/good/093.png,Bottle is intact and qualty is gggood,False,Other,good,Low,,train,v1.0.0,3062780492
+good_094_1b0c158d,data/raw/mvtec/bottle/bottle/train/good/094.png,المنتج مطابق للوصف وبحالة ممتازة,False,Other,good,Low,,train,v1.0.0,2965990979
+good_095_21121c5a,data/raw/mvtec/bottle/bottle/train/good/095.png,المنتج مطابق للوصف وبحالة ممتازة,False,Other,good,Low,,train,v1.0.0,2973972797
+good_096_327123db,data/raw/mvtec/bottle/bottle/train/good/096.png,"Everything is fine, no issuessss 👍",False,Other,good,Low,,train,v1.0.0,2721551172
+good_097_b7bc136f,data/raw/mvtec/bottle/bottle/train/good/097.png,الزجاجة سليمه وجودتها جيدة ✨😊,False,Other,good,Low,,train,v1.0.0,3341085644
+good_098_c068d804,data/raw/mvtec/bottle/bottle/train/good/098.png,BBottle is intact and quality is good,False,Other,good,Low,,train,v1.0.0,2310669683
+good_099_bf346981,data/raw/mvtec/bottle/bottle/train/good/099.png,"Everything is fiine, no issues",False,Other,good,Low,,train,v1.0.0,2962875063
+good_100_1a3efe1d,data/raw/mvtec/bottle/bottle/train/good/100.png,"Everything is fine, no issues",False,Other,good,Low,,train,v1.0.0,3948838818
+good_101_a9ef20a1,data/raw/mvtec/bottle/bottle/train/good/101.png,"Product arrived in excellent condition, thank you",False,Other,good,Low,,train,v1.0.0,3705586184
+good_102_b420e5ac,data/raw/mvtec/bottle/bottle/train/good/102.png,Everythinnng is fine no issues 👌,False,Other,good,Low,,train,v1.0.0,650804186
+good_103_75a0197f,data/raw/mvtec/bottle/bottle/train/good/103.png,الزجاجة سليمةةةة وجودتها جيدة ✨,False,Other,good,Low,,train,v1.0.0,565786838
+good_104_3d949922,data/raw/mvtec/bottle/bottle/train/good/104.png,Product matchhhes description and is in perfect ccccondition,False,Other,good,Low,,train,v1.0.0,30849711
+good_105_e27958b9,data/raw/mvtec/bottle/bottle/train/good/105.png,"Product arrived in excellent conditttion, thaaank you",False,Other,good,Low,,train,v1.0.0,541800509
+good_106_1d923b54,data/raw/mvtec/bottle/bottle/train/good/106.png,Bottle is intact anddd quality is good,False,Other,good,Low,,train,v1.0.0,2292160100
+good_107_5f018203,data/raw/mvtec/bottle/bottle/train/good/107.png,"Everything is fine, no issues",False,Other,good,Low,,train,v1.0.0,2967498834
+good_108_d3d6aede,data/raw/mvtec/bottle/bottle/train/good/108.png,المنتج وصل بحاالة ممتازه، شكراً 💯,False,Other,good,Low,,train,v1.0.0,1847375257
+good_109_482f3ba5,data/raw/mvtec/bottle/bottle/train/good/109.png,المنتج وصل بحالللة ممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,4022277683
+good_110_081fe46c,data/raw/mvtec/bottle/bottle/train/good/110.png,المنتج مطابق للوصف وبحاله ممتازة,False,Other,good,Low,,train,v1.0.0,3411180986
+good_111_484aa567,data/raw/mvtec/bottle/bottle/train/good/111.png,المنتج مطابق للوصف وبحالة ممتازة,False,Other,good,Low,,train,v1.0.0,82561882
+good_112_365b241c,data/raw/mvtec/bottle/bottle/train/good/112.png,المنتج وصل بحالة ممتازة شكراً ❤️,False,Other,good,Low,,train,v1.0.0,3341809077
+good_113_033ce3ff,data/raw/mvtec/bottle/bottle/train/good/113.png,الزجاجة سليمة وجودتها جيدة,False,Other,good,Low,,train,v1.0.0,1968708704
+good_114_d226f6ca,data/raw/mvtec/bottle/bottle/train/good/114.png,prduct matches description and is in perfect ccccondition,False,Other,good,Low,,train,v1.0.0,1006587685
+good_115_6a0d9cac,data/raw/mvtec/bottle/bottle/train/good/115.png,الزجاجة سليمة وجودتها جيدة 💯,False,Other,good,Low,,train,v1.0.0,3530097928
+good_116_8163adb7,data/raw/mvtec/bottle/bottle/train/good/116.png,الزجاجة سليمه وجودتهها جيدة 😊,False,Other,good,Low,,train,v1.0.0,1422974680
+good_117_b45a9ad2,data/raw/mvtec/bottle/bottle/train/good/117.png,المنتج مطابق للوصف ووووبحالة ممتازة,False,Other,good,Low,,train,v1.0.0,3582195562
+good_118_22bea076,data/raw/mvtec/bottle/bottle/train/good/118.png,الزجاجة سليمه وجودتها جيدة,False,Other,good,Low,,train,v1.0.0,803860098
+good_119_127e408a,data/raw/mvtec/bottle/bottle/train/good/119.png,"Everything is fine, no issues 💯💯",False,Other,good,Low,,train,v1.0.0,944569008
+good_120_1af40dde,data/raw/mvtec/bottle/bottle/train/good/120.png,"Product arrived in excellent condition, thank you",False,Other,good,Low,,train,v1.0.0,3659960983
+good_121_4126e4a9,data/raw/mvtec/bottle/bottle/train/good/121.png,الزجاجة سليمة وجودتها جيدة,False,Other,good,Low,,train,v1.0.0,858040521
+good_122_b0ce466d,data/raw/mvtec/bottle/bottle/train/good/122.png,الزجاجة سليمة وجودتها جيدة ❤️,False,Other,good,Low,,train,v1.0.0,3613553038
+good_123_8f7b2701,data/raw/mvtec/bottle/bottle/train/good/123.png,الزجاجة سليمة وجودتها جيدة,False,Other,good,Low,,train,v1.0.0,3480546770
+good_124_28c9623b,data/raw/mvtec/bottle/bottle/train/good/124.png,المنتج وصل بحالة ممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,3144125076
+good_125_c1662c0c,data/raw/mvtec/bottle/bottle/train/good/125.png,المنتج وصل بحالة ممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,3262175101
+good_126_b9413f40,data/raw/mvtec/bottle/bottle/train/good/126.png,Product matches description and is in perfect condition,False,Other,good,Low,,train,v1.0.0,2019182118
+good_127_b5556584,data/raw/mvtec/bottle/bottle/train/good/127.png,"Product arrived in eeexcellent condition, thank you",False,Other,good,Low,,train,v1.0.0,1019727649
+good_128_31227c12,data/raw/mvtec/bottle/bottle/train/good/128.png,"Product arrived in excellent condition, thank you",False,Other,good,Low,,train,v1.0.0,380453246
+good_129_0462fa02,data/raw/mvtec/bottle/bottle/train/good/129.png,Produuuct matches description and is in perfect condition,False,Other,good,Low,,train,v1.0.0,191052977
+good_130_80ce8178,data/raw/mvtec/bottle/bottle/train/good/130.png,الزجاجة سليمة وجودتها جيدةة 💯👍,False,Other,good,Low,,train,v1.0.0,2220297789
+good_131_f0637929,data/raw/mvtec/bottle/bottle/train/good/131.png,Bottle is intact and qualllity is good,False,Other,good,Low,,train,v1.0.0,1639824767
+good_132_5e4a7ae6,data/raw/mvtec/bottle/bottle/train/good/132.png,"prduuuuct arrivved in excellent condition, thank you",False,Other,good,Low,,train,v1.0.0,2812779794
+good_133_46589e54,data/raw/mvtec/bottle/bottle/train/good/133.png,كل شيء تمام، لا يوجد مشاكككل,False,Other,good,Low,,train,v1.0.0,1609852941
+good_134_e58e56dd,data/raw/mvtec/bottle/bottle/train/good/134.png,كل شيء تممام لا يوجد مشاكل,False,Other,good,Low,,train,v1.0.0,1262023577
+good_135_490e6405,data/raw/mvtec/bottle/bottle/train/good/135.png,الزجااجة سليمة وجودتها جيدة,False,Other,good,Low,,train,v1.0.0,1663036160
+good_136_fd6a757c,data/raw/mvtec/bottle/bottle/train/good/136.png,Bottle is intact and quality is good 👌❤️,False,Other,good,Low,,train,v1.0.0,3149475850
+good_137_bd03d13f,data/raw/mvtec/bottle/bottle/train/good/137.png,المنتج وصل بحالة مممممتازة، شكراً ❤️,False,Other,good,Low,,train,v1.0.0,3495724216
+good_138_ef4578e6,data/raw/mvtec/bottle/bottle/train/good/138.png,الزجاجة سليمة وجودتها جييده,False,Other,good,Low,,train,v1.0.0,1621682320
+good_139_64e271bc,data/raw/mvtec/bottle/bottle/train/good/139.png,المنتج مطابق للوصف وبحالة ممتازه,False,Other,good,Low,,train,v1.0.0,1858921869
+good_140_5667efd7,data/raw/mvtec/bottle/bottle/train/good/140.png,Bottle is intact and quality is good,False,Other,good,Low,,train,v1.0.0,1111074660
+good_141_70c77522,data/raw/mvtec/bottle/bottle/train/good/141.png,"PPProduct arrived in excellent condition, thank you 💯😊",False,Other,good,Low,,train,v1.0.0,1356068260
+good_142_5d97b721,data/raw/mvtec/bottle/bottle/train/good/142.png,المنتج مطابق للوصف وبحالة ممتازة ✨,False,Other,good,Low,,train,v1.0.0,1769232402
+good_143_bf641bf8,data/raw/mvtec/bottle/bottle/train/good/143.png,Product matches description and is in perfect conditiiion,False,Other,good,Low,,train,v1.0.0,2272352218
+good_144_666d78f9,data/raw/mvtec/bottle/bottle/train/good/144.png,الزجاجة سليمةةة وجودتها جيدة 👌,False,Other,good,Low,,train,v1.0.0,2760491163
+good_145_ca3ce05e,data/raw/mvtec/bottle/bottle/train/good/145.png,الزجاجة سليمة وجودتها جيدة,False,Other,good,Low,,train,v1.0.0,3812575871
+good_146_21166538,data/raw/mvtec/bottle/bottle/train/good/146.png,"Eveeeerything is fine, no issues 💯",False,Other,good,Low,,train,v1.0.0,4031565413
+good_147_a63af115,data/raw/mvtec/bottle/bottle/train/good/147.png,المنتج وصل بحالة ممتازة شكرررراً,False,Other,good,Low,,train,v1.0.0,2548978337
+good_148_53aa074a,data/raw/mvtec/bottle/bottle/train/good/148.png,الزجاجه سليمة وجودتها جيددددة,False,Other,good,Low,,train,v1.0.0,2340274240
+good_149_ab0ca955,data/raw/mvtec/bottle/bottle/train/good/149.png,"Product arriiiived in excellent condition, thank you",False,Other,good,Low,,train,v1.0.0,691108566
+good_150_4fcef86c,data/raw/mvtec/bottle/bottle/train/good/150.png,"Product arrived in excellent condition, thank you",False,Other,good,Low,,train,v1.0.0,308339091
+good_151_67c83d16,data/raw/mvtec/bottle/bottle/train/good/151.png,Everything is fine no issues,False,Other,good,Low,,train,v1.0.0,2168141630
+good_152_c0b3fbdf,data/raw/mvtec/bottle/bottle/train/good/152.png,Bottle is intactttt and quality is good,False,Other,good,Low,,train,v1.0.0,3093574058
+good_153_96584342,data/raw/mvtec/bottle/bottle/train/good/153.png,كل شيء تمام لا يوجد مشاكل,False,Other,good,Low,,train,v1.0.0,597041999
+good_154_b07922eb,data/raw/mvtec/bottle/bottle/train/good/154.png,Product matches description and is in perfect condition 👍💯,False,Other,good,Low,,train,v1.0.0,2158613885
+good_155_43770202,data/raw/mvtec/bottle/bottle/train/good/155.png,الزجاجة سلىمة وجودتها جيده,False,Other,good,Low,,train,v1.0.0,3640999232
+good_156_00d38966,data/raw/mvtec/bottle/bottle/train/good/156.png,المنتج وصل بحالة ممتازه، شكراً,False,Other,good,Low,,train,v1.0.0,1554113993
+good_157_f39bf4db,data/raw/mvtec/bottle/bottle/train/good/157.png,كل شىءءءء تمام لا يوجد مشاكل 💯,False,Other,good,Low,,train,v1.0.0,1105107743
+good_158_452acaca,data/raw/mvtec/bottle/bottle/train/good/158.png,Bottle is intact and qualty is good,False,Other,good,Low,,train,v1.0.0,3974358759
+good_159_c4831b8e,data/raw/mvtec/bottle/bottle/train/good/159.png,prduct matches description and is in perfect condition,False,Other,good,Low,,train,v1.0.0,3133828766
+good_160_cc85e203,data/raw/mvtec/bottle/bottle/train/good/160.png,"Product arrived in excellent condition, thank you",False,Other,good,Low,,train,v1.0.0,4155818843
+good_161_d7e7a2b9,data/raw/mvtec/bottle/bottle/train/good/161.png,المنتج وصل بحالة ممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,637296354
+good_162_592dfc03,data/raw/mvtec/bottle/bottle/train/good/162.png,المنتج وصللل بحالة ممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,2145370038
+good_163_8077e663,data/raw/mvtec/bottle/bottle/train/good/163.png,Bottle is intact and quality is good ✨,False,Other,good,Low,,train,v1.0.0,2973738413
+good_164_cd8bbb0f,data/raw/mvtec/bottle/bottle/train/good/164.png,الزجاجة سليمة وجوددددتها جيدة,False,Other,good,Low,,train,v1.0.0,1271108828
+good_165_418400c0,data/raw/mvtec/bottle/bottle/train/good/165.png,Bottle is iintact and quality is good,False,Other,good,Low,,train,v1.0.0,3166465151
+good_166_74d01f46,data/raw/mvtec/bottle/bottle/train/good/166.png,المنتج وصل بحاله ممتاازة، شكراً 👌,False,Other,good,Low,,train,v1.0.0,647199794
+good_167_560b1e8c,data/raw/mvtec/bottle/bottle/train/good/167.png,"Everything is fine, no issues",False,Other,good,Low,,train,v1.0.0,1839217694
+good_168_1b0f9b62,data/raw/mvtec/bottle/bottle/train/good/168.png,كل شيء تمام، لا ىوجد مشاكل,False,Other,good,Low,,train,v1.0.0,4025802042
+good_169_b53b08a8,data/raw/mvtec/bottle/bottle/train/good/169.png,الزجاجة سليمه وجودتها جيدة,False,Other,good,Low,,train,v1.0.0,1279805975
+good_170_cb1ce857,data/raw/mvtec/bottle/bottle/train/good/170.png,Product matches descriptioooon aaaand is in perfect condition,False,Other,good,Low,,train,v1.0.0,706551727
+good_171_d8240b60,data/raw/mvtec/bottle/bottle/train/good/171.png,"Everything is fine, no issues ❤️",False,Other,good,Low,,train,v1.0.0,2660052994
+good_172_5109918c,data/raw/mvtec/bottle/bottle/train/good/172.png,"Everything is fine, no issues",False,Other,good,Low,,train,v1.0.0,608156989
+good_173_cdc43669,data/raw/mvtec/bottle/bottle/train/good/173.png,Bottle is innnntact and quality is goodddd,False,Other,good,Low,,train,v1.0.0,2758779969
+good_174_cf468a4c,data/raw/mvtec/bottle/bottle/train/good/174.png,المنتج وصل بحالة ممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,490993033
+good_175_59b97804,data/raw/mvtec/bottle/bottle/train/good/175.png,المنتج وصل بحالة ممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,375226934
+good_176_9a58acd3,data/raw/mvtec/bottle/bottle/train/good/176.png,اللمنتج مطابق للوصف وبحالة ممتازة,False,Other,good,Low,,train,v1.0.0,1496340179
+good_177_8c9e6a92,data/raw/mvtec/bottle/bottle/train/good/177.png,bottttle is intact and quality is good 😊✨,False,Other,good,Low,,train,v1.0.0,3572424868
+good_178_53f89b20,data/raw/mvtec/bottle/bottle/train/good/178.png,Bottle is iiintact and qualty is good ✨👍,False,Other,good,Low,,train,v1.0.0,1934581496
+good_179_aca910c8,data/raw/mvtec/bottle/bottle/train/good/179.png,كل شيء تمام، لا يوجد مشاكل 👌,False,Other,good,Low,,train,v1.0.0,2791657776
+good_180_ae7eae9b,data/raw/mvtec/bottle/bottle/train/good/180.png,prduct matches description and is in perfect condition,False,Other,good,Low,,train,v1.0.0,3935316816
+good_181_61cc9e6f,data/raw/mvtec/bottle/bottle/train/good/181.png,المنتج مطابق للوصف وبحاللة ممتازة,False,Other,good,Low,,train,v1.0.0,2520371500
+good_182_ed20ba81,data/raw/mvtec/bottle/bottle/train/good/182.png,Product matches description annnd is in perfect condition,False,Other,good,Low,,train,v1.0.0,3139246800
+good_183_1a2d9bae,data/raw/mvtec/bottle/bottle/train/good/183.png,"Producccct arrived in excellent condition, thank you",False,Other,good,Low,,train,v1.0.0,1921419042
+good_184_34155735,data/raw/mvtec/bottle/bottle/train/good/184.png,المنتج مطابق للوصف وبحالة مممممتازة ❤️💯,False,Other,good,Low,,train,v1.0.0,3356223333
+good_185_db48ae70,data/raw/mvtec/bottle/bottle/train/good/185.png,كل شيء تمام، لا يوجد مشاكل,False,Other,good,Low,,train,v1.0.0,1253783021
+good_186_ae031dd8,data/raw/mvtec/bottle/bottle/train/good/186.png,Bottle is intact and quality is good,False,Other,good,Low,,train,v1.0.0,3078338463
+good_187_f87b5b8f,data/raw/mvtec/bottle/bottle/train/good/187.png,المنتج وصل بحالة ممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,1952734195
+good_188_9b9c42d4,data/raw/mvtec/bottle/bottle/train/good/188.png,كل شيء تمام، لا يوجد مشاكل 💯,False,Other,good,Low,,train,v1.0.0,4009392010
+good_189_064e9c1b,data/raw/mvtec/bottle/bottle/train/good/189.png,االزجاجة سليمة وجودتها جيدة,False,Other,good,Low,,train,v1.0.0,1129652934
+good_190_da1dcb84,data/raw/mvtec/bottle/bottle/train/good/190.png,Product matches description and is in perfect condition,False,Other,good,Low,,train,v1.0.0,2810565749
+good_191_efdac17c,data/raw/mvtec/bottle/bottle/train/good/191.png,المنتج مطابق للوصف وبحالة ممتازة,False,Other,good,Low,,train,v1.0.0,4212146858
+good_192_384fad5b,data/raw/mvtec/bottle/bottle/train/good/192.png,المنتج مطابق للوصف وبحالة ممتازة,False,Other,good,Low,,train,v1.0.0,2082738006
+good_193_2d6ddb69,data/raw/mvtec/bottle/bottle/train/good/193.png,Productt matches description and is in perfect condition,False,Other,good,Low,,train,v1.0.0,4259510215
+good_194_98fe8ca3,data/raw/mvtec/bottle/bottle/train/good/194.png,المنتج وصل بحاله ممتازة، شكراً,False,Other,good,Low,,train,v1.0.0,802010626
+good_195_cbe9abfe,data/raw/mvtec/bottle/bottle/train/good/195.png,Product matches ddescription and is in perffect condition 👌,False,Other,good,Low,,train,v1.0.0,640860440
+good_196_4c865947,data/raw/mvtec/bottle/bottle/train/good/196.png,الزججججاجة سليمة وجودتها جيدةةةة,False,Other,good,Low,,train,v1.0.0,2092234737
+good_197_389173ac,data/raw/mvtec/bottle/bottle/train/good/197.png,"Everything is fine, no issues",False,Other,good,Low,,train,v1.0.0,124812043
+good_198_dba73f46,data/raw/mvtec/bottle/bottle/train/good/198.png,"Product arrived in excellent condition, thank you ✨",False,Other,good,Low,,train,v1.0.0,3348634265
+good_199_f8fe4398,data/raw/mvtec/bottle/bottle/train/good/199.png,Botttle is intact and quality is good,False,Other,good,Low,,train,v1.0.0,4079860569
+good_200_5c79d47e,data/raw/mvtec/bottle/bottle/train/good/200.png,المنتج مطابق للوصف وبحالة ممتازة,False,Other,good,Low,,train,v1.0.0,147885997
+good_201_7d31a370,data/raw/mvtec/bottle/bottle/train/good/201.png,المنتج مطابق للوصفف وبحالة ممتازة,False,Other,good,Low,,train,v1.0.0,127750097
+good_202_3fcad1dc,data/raw/mvtec/bottle/bottle/train/good/202.png,كل شيء تمام لا يوجد مشاكل,False,Other,good,Low,,train,v1.0.0,2458153125
+good_203_35d18de9,data/raw/mvtec/bottle/bottle/train/good/203.png,كل شيء تمام، لا ييييوجد مشاكل,False,Other,good,Low,,train,v1.0.0,1426653079
+good_204_8c8912dc,data/raw/mvtec/bottle/bottle/train/good/204.png,كل شىء تمام، لا يوجد مشاكل,False,Other,good,Low,,train,v1.0.0,3023286726
+good_205_905a3591,data/raw/mvtec/bottle/bottle/train/good/205.png,المنتج مطابق للوصف وبحاله ممتازة,False,Other,good,Low,,train,v1.0.0,1906829484
+good_206_acb86ab7,data/raw/mvtec/bottle/bottle/train/good/206.png,كل شيء تمام لا يوجد مشاكل,False,Other,good,Low,,train,v1.0.0,3690014746
+good_207_3fabb0ab,data/raw/mvtec/bottle/bottle/train/good/207.png,Everything is fine no issues,False,Other,good,Low,,train,v1.0.0,1653505494
+good_208_6b3230f9,data/raw/mvtec/bottle/bottle/train/good/208.png,كل شيء تمام، لا يوجد مشاكل,False,Other,good,Low,,train,v1.0.0,3368447038
+broken_large_000_ae9f897c,data/raw/mvtec/bottle/bottle/test/broken_large/000.png,I neeeeed to rrrreturn this there's a huge crack in it,True,Damage,broken_large,High,data/raw/mvtec/bottle/bottle/ground_truth/broken_large/000_mask.png,validation,v1.0.0,2889929226
+broken_large_001_28078fec,data/raw/mvtec/bottle/bottle/test/broken_large/001.png,ارغب بإرجاع المنتج لانننن فيه كسر كبير جداً,True,Damage,broken_large,High,data/raw/mvtec/bottle/bottle/ground_truth/broken_large/001_mask.png,test,v1.0.0,3537030747
+broken_large_002_55f78306,data/raw/mvtec/bottle/bottle/test/broken_large/002.png,الزجاجة فيها كسر خطير ومش صالحة للاستعمال,True,Damage,broken_large,High,data/raw/mvtec/bottle/bottle/ground_truth/broken_large/002_mask.png,test,v1.0.0,3314256999
+broken_large_003_5de571d9,data/raw/mvtec/bottle/bottle/test/broken_large/003.png,المنتج وصل تالف، يوجد شرخ كبير فى اااالزجاجة,True,Damage,broken_large,High,data/raw/mvtec/bottle/bottle/ground_truth/broken_large/003_mask.png,test,v1.0.0,2955949394
+broken_large_004_db97f29b,data/raw/mvtec/bottle/bottle/test/broken_large/004.png,"botle has serious dammmmage, not suitable for use",True,Damage,broken_large,High,data/raw/mvtec/bottle/bottle/ground_truth/broken_large/004_mask.png,validation,v1.0.0,3784107754
+broken_large_005_3e26d42e,data/raw/mvtec/bottle/bottle/test/broken_large/005.png,The bottlle is severeeely brokn and unusable,True,Damage,broken_large,High,data/raw/mvtec/bottle/bottle/ground_truth/broken_large/005_mask.png,validation,v1.0.0,2014986767
+broken_large_006_c5e4d126,data/raw/mvtec/bottle/bottle/test/broken_large/006.png,الزجاجة مكسورة بشكل كبىر ولا يمكنننن استخدامها 😤,True,Damage,broken_large,High,data/raw/mvtec/bottle/bottle/ground_truth/broken_large/006_mask.png,validation,v1.0.0,871059700
+broken_large_007_f729df99,data/raw/mvtec/bottle/bottle/test/broken_large/007.png,ارغب بإرجاع المنتج لان فيه كسر كبير جداً 😤😡,True,Damage,broken_large,High,data/raw/mvtec/bottle/bottle/ground_truth/broken_large/007_mask.png,test,v1.0.0,2041499361
+broken_large_008_72ae29bf,data/raw/mvtec/bottle/bottle/test/broken_large/008.png,"There is a major crack in the product, I want a replacement",True,Damage,broken_large,High,data/raw/mvtec/bottle/bottle/ground_truth/broken_large/008_mask.png,test,v1.0.0,1243968853
+broken_large_009_a0b85be0,data/raw/mvtec/bottle/bottle/test/broken_large/009.png,يوجد كسر واضح وكبير في المنتتتتج أريد استبدال,True,Damage,broken_large,High,data/raw/mvtec/bottle/bottle/ground_truth/broken_large/009_mask.png,test,v1.0.0,617561288
+broken_large_010_4ef68f95,data/raw/mvtec/bottle/bottle/test/broken_large/010.png,الزجاجة مكسورة بشكل كبير ولا يمكن استخدامها,True,Damage,broken_large,High,data/raw/mvtec/bottle/bottle/ground_truth/broken_large/010_mask.png,test,v1.0.0,3118127618
+broken_large_011_6bf57ec8,data/raw/mvtec/bottle/bottle/test/broken_large/011.png,يوجد كسر واضح وكبىر في المنتج، أريد استبدال 🤦‍♂️❌,True,Damage,broken_large,High,data/raw/mvtec/bottle/bottle/ground_truth/broken_large/011_mask.png,validation,v1.0.0,1756751318
+broken_large_012_6e18f6fd,data/raw/mvtec/bottle/bottle/test/broken_large/012.png,الزجاجه فيها كسر خطير ومش صالحة للاستعمال 👎,True,Damage,broken_large,High,data/raw/mvtec/bottle/bottle/ground_truth/broken_large/012_mask.png,test,v1.0.0,2157793525
+broken_large_013_7e555f18,data/raw/mvtec/bottle/bottle/test/broken_large/013.png,Product arrivedddd damaged with large breakage,True,Damage,broken_large,High,data/raw/mvtec/bottle/bottle/ground_truth/broken_large/013_mask.png,test,v1.0.0,106857431
+broken_large_014_02ddc556,data/raw/mvtec/bottle/bottle/test/broken_large/014.png,الزجاجة فيها كسر خطىر ومش صالحححة للاستعمال,True,Damage,broken_large,High,data/raw/mvtec/bottle/bottle/ground_truth/broken_large/014_mask.png,validation,v1.0.0,3127863351
+broken_large_015_023d7e82,data/raw/mvtec/bottle/bottle/test/broken_large/015.png,ارغب بإرجاع المنتج لان فيه كسر كبير جداً,True,Damage,broken_large,High,data/raw/mvtec/bottle/bottle/ground_truth/broken_large/015_mask.png,validation,v1.0.0,1480936469
+broken_large_016_d19da9bf,data/raw/mvtec/bottle/bottle/test/broken_large/016.png,يوجد كسر واضح وكببىر في المنتج، أررريد استبدال 😠,True,Damage,broken_large,High,data/raw/mvtec/bottle/bottle/ground_truth/broken_large/016_mask.png,test,v1.0.0,3507358768
+broken_large_017_8e82f350,data/raw/mvtec/bottle/bottle/test/broken_large/017.png,"Bottle has serious damage, not suitable for use",True,Damage,broken_large,High,data/raw/mvtec/bottle/bottle/ground_truth/broken_large/017_mask.png,validation,v1.0.0,2489840970
+broken_large_018_80a052a4,data/raw/mvtec/bottle/bottle/test/broken_large/018.png,ارغب بإرجاعععع المنتج لان فييه كسر كبير جداً,True,Damage,broken_large,High,data/raw/mvtec/bottle/bottle/ground_truth/broken_large/018_mask.png,validation,v1.0.0,3364512423
+broken_large_019_4de72e1e,data/raw/mvtec/bottle/bottle/test/broken_large/019.png,الزجاجه مكسورة بشكل كبىر ولا يمككككن استخدامها,True,Damage,broken_large,High,data/raw/mvtec/bottle/bottle/ground_truth/broken_large/019_mask.png,test,v1.0.0,2104557654
+broken_small_000_669dd9c0,data/raw/mvtec/bottle/bottle/test/broken_small/000.png,Noticed a small fracture upon receiving tthe bottle,True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/000_mask.png,validation,v1.0.0,1562414086
+broken_small_001_061452df,data/raw/mvtec/bottle/bottle/test/broken_small/001.png,في شرخ صغير في الزجاجة بس مزعج 👎💔,True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/001_mask.png,validation,v1.0.0,1281097643
+broken_small_002_170d9f5f,data/raw/mvtec/bottle/bottle/test/broken_small/002.png,المنتجججج به عيب بسيط، كسر صغير بالزجاجه,True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/002_mask.png,test,v1.0.0,960876650
+broken_small_003_02b15306,data/raw/mvtec/bottle/bottle/test/broken_small/003.png,في شرخ صغير في الزجاجة بس مزعج ⚠️😤,True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/003_mask.png,test,v1.0.0,1483803251
+broken_small_004_e1803ea3,data/raw/mvtec/bottle/bottle/test/broken_small/004.png,"Product has minor defect, small crack on glasss",True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/004_mask.png,validation,v1.0.0,2899538170
+broken_small_005_d445aafd,data/raw/mvtec/bottle/bottle/test/broken_small/005.png,المنتج به عيب بسيط، كسر صغىر بالزجاجه,True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/005_mask.png,test,v1.0.0,3271309185
+broken_small_006_fa669613,data/raw/mvtec/bottle/bottle/test/broken_small/006.png,Minor ddddamge visible on teh product,True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/006_mask.png,test,v1.0.0,1368967613
+broken_small_007_9385e088,data/raw/mvtec/bottle/bottle/test/broken_small/007.png,المنتج به عععىب بسيط، كسر صغيييير بالزجاجة 😡,True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/007_mask.png,test,v1.0.0,4098713945
+broken_small_008_ef734861,data/raw/mvtec/bottle/bottle/test/broken_small/008.png,لاحظت وجود شق صغير في الزجاجة عند الاستلام,True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/008_mask.png,validation,v1.0.0,1571355197
+broken_small_009_dbd2f70e,data/raw/mvtec/bottle/bottle/test/broken_small/009.png,المنتج به عععيب بسيط، كسر صغير بالزجاجة,True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/009_mask.png,validation,v1.0.0,1564818108
+broken_small_010_36a8d128,data/raw/mvtec/bottle/bottle/test/broken_small/010.png,المنتج به عيب بسيط كسر صغير بالزجاجة,True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/010_mask.png,validation,v1.0.0,3528646244
+broken_small_011_7f16a045,data/raw/mvtec/bottle/bottle/test/broken_small/011.png,Minor dammmmage visible on the product,True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/011_mask.png,validation,v1.0.0,3753294644
+broken_small_012_8f0b40cf,data/raw/mvtec/bottle/bottle/test/broken_small/012.png,"Bottle has a small chip or crack, can I get replacement?",True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/012_mask.png,validation,v1.0.0,975111425
+broken_small_013_ab1db5de,data/raw/mvtec/bottle/bottle/test/broken_small/013.png,ىوجد كسر بسيط لكنه واضضضح فى ااالمنتج,True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/013_mask.png,validation,v1.0.0,4092884554
+broken_small_014_3c73ea6b,data/raw/mvtec/bottle/bottle/test/broken_small/014.png,لاحظت وجود شق صغير في الزجاجة عند الاسسستلام,True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/014_mask.png,test,v1.0.0,2086577420
+broken_small_015_6e99a70a,data/raw/mvtec/bottle/bottle/test/broken_small/015.png,في شرخ صغير فى الزززجاجة بس مزعج,True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/015_mask.png,validation,v1.0.0,4186188156
+broken_small_016_28f5b7ae,data/raw/mvtec/bottle/bottle/test/broken_small/016.png,المنتج به عيب بسسيط كسر صغير بالزجاجة 👎❌,True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/016_mask.png,validation,v1.0.0,1646982027
+broken_small_017_961e83ff,data/raw/mvtec/bottle/bottle/test/broken_small/017.png,"Product has minor deffffect, small crack on glass",True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/017_mask.png,validation,v1.0.0,2616864572
+broken_small_018_f528d2c5,data/raw/mvtec/bottle/bottle/test/broken_small/018.png,Minor damage visiblle on teeh productt 💔,True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/018_mask.png,validation,v1.0.0,588979942
+broken_small_019_3a54e074,data/raw/mvtec/bottle/bottle/test/broken_small/019.png,"bootle has a small chiiiip or crack,,,, can I get replacement?",True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/019_mask.png,validation,v1.0.0,1720195488
+broken_small_020_cf4c86e4,data/raw/mvtec/bottle/bottle/test/broken_small/020.png,"Bottle hhhhas a small chip or crack, can I get replacement?",True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/020_mask.png,validation,v1.0.0,4140480175
+broken_small_021_16afd1b3,data/raw/mvtec/bottle/bottle/test/broken_small/021.png,لاحظت وجود شق صغير في الزجاجة عند الاستلام,True,Damage,broken_small,Medium,data/raw/mvtec/bottle/bottle/ground_truth/broken_small/021_mask.png,test,v1.0.0,1951440027
+contamination_000_0bc028ae,data/raw/mvtec/bottle/bottle/test/contamination/000.png,Bottle looks contaminated from inside,True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/000_mask.png,test,v1.0.0,28095429
+contamination_001_1728ee14,data/raw/mvtec/bottle/bottle/test/contamination/001.png,فى اوساخ او تلوووث داخل الزجاجة,True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/001_mask.png,test,v1.0.0,4226605866
+contamination_002_4baa622b,data/raw/mvtec/bottle/bottle/test/contamination/002.png,Bottle looks contaminated from inside,True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/002_mask.png,test,v1.0.0,2816983773
+contamination_003_a0130f2f,data/raw/mvtec/bottle/bottle/test/contamination/003.png,There is dirt or contamination inside teh bbbottle,True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/003_mask.png,test,v1.0.0,3774147016
+contamination_004_bbc99b21,data/raw/mvtec/bottle/bottle/test/contamination/004.png,المنتج غىر نظيف يوجد شوائب واضحة,True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/004_mask.png,test,v1.0.0,3547906875
+contamination_005_ea40825a,data/raw/mvtec/bottle/bottle/test/contamination/005.png,لاحظت وجود اترررربة او مواااد غريبة بالمنتج,True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/005_mask.png,test,v1.0.0,1852334649
+contamination_006_8443e92e,data/raw/mvtec/bottle/bottle/test/contamination/006.png,جودة التنظيف سيئة، في تلوث ووواضح بالزجاجة 😡,True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/006_mask.png,validation,v1.0.0,440872328
+contamination_007_996e91c8,data/raw/mvtec/bottle/bottle/test/contamination/007.png,الزجاجه ملوثة ولا تببدو نظظظيفة من الداخل,True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/007_mask.png,test,v1.0.0,2884953869
+contamination_008_96512530,data/raw/mvtec/bottle/bottle/test/contamination/008.png,Bottle looks contaminated from inside,True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/008_mask.png,test,v1.0.0,4244497290
+contamination_009_51464f5c,data/raw/mvtec/bottle/bottle/test/contamination/009.png,There is dirt or contamination inside teh botle,True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/009_mask.png,test,v1.0.0,4173273890
+contamination_010_d7a37a9a,data/raw/mvtec/bottle/bottle/test/contamination/010.png,"Product is not clean, visible impurities presssent",True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/010_mask.png,test,v1.0.0,3228871856
+contamination_011_56a9589a,data/raw/mvtec/bottle/bottle/test/contamination/011.png,الزجاجه ملوثة ولا تبدو نظيفة من الداخل,True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/011_mask.png,validation,v1.0.0,3625095301
+contamination_012_0ce8a2fa,data/raw/mvtec/bottle/bottle/test/contamination/012.png,المنتج غير نظييف، ىوجد شوائب واضحة 😤👎,True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/012_mask.png,validation,v1.0.0,2190575404
+contamination_013_9c5058b1,data/raw/mvtec/bottle/bottle/test/contamination/013.png,لاحظت وجود اتربة او مواد غريبة بالمنتج,True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/013_mask.png,validation,v1.0.0,3043047115
+contamination_014_1a466f92,data/raw/mvtec/bottle/bottle/test/contamination/014.png,لاحظت وجود اتربةة او مواد غريبة بالمنتج,True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/014_mask.png,test,v1.0.0,39740166
+contamination_015_da7eecfc,data/raw/mvtec/bottle/bottle/test/contamination/015.png,الزجاجة مللللوثه ولا تبدو نظيفة من الداخل,True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/015_mask.png,validation,v1.0.0,1955628962
+contamination_016_432fbfc8,data/raw/mvtec/bottle/bottle/test/contamination/016.png,المنتج غىرررر نظيف يوجد شوائب واضحة,True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/016_mask.png,test,v1.0.0,549318304
+contamination_017_b97f58ad,data/raw/mvtec/bottle/bottle/test/contamination/017.png,Poor qualtyy cleaning obbbbvious contamination 😠💔,True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/017_mask.png,test,v1.0.0,204186145
+contamination_018_58936bd7,data/raw/mvtec/bottle/bottle/test/contamination/018.png,جودةةةة التنظيف سيئة، في تلوث واضح بالزجاجة,True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/018_mask.png,validation,v1.0.0,1725030866
+contamination_019_83b5ef09,data/raw/mvtec/bottle/bottle/test/contamination/019.png,المنتج غير نظيف، ىوجد شوائب واضضحة,True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/019_mask.png,validation,v1.0.0,1574306807
+contamination_020_b07f7382,data/raw/mvtec/bottle/bottle/test/contamination/020.png,Bottle looks contaminateddd ffrom inside,True,Quality,contamination,Medium,data/raw/mvtec/bottle/bottle/ground_truth/contamination/020_mask.png,validation,v1.0.0,2891093320
+good_000_e57931ef,data/raw/mvtec/bottle/bottle/test/good/000.png,الزجاجة سليمة وجودتها جيده,False,Other,good,Low,,validation,v1.0.0,4219652650
+good_001_a7229288,data/raw/mvtec/bottle/bottle/test/good/001.png,المنتج مطابق للوصف وبحالة ممتازة,False,Other,good,Low,,validation,v1.0.0,1201944521
+good_002_c0f2981c,data/raw/mvtec/bottle/bottle/test/good/002.png,المنتج وصل بحالة ممتاازة، شكراً,False,Other,good,Low,,validation,v1.0.0,2047286182
+good_003_a5d37c20,data/raw/mvtec/bottle/bottle/test/good/003.png,كل شيء تمام، لا يوجد مشاكل,False,Other,good,Low,,test,v1.0.0,2713192068
+good_004_b96a326f,data/raw/mvtec/bottle/bottle/test/good/004.png,Product matches description and is in perfect condition,False,Other,good,Low,,test,v1.0.0,3355836237
+good_005_64f76fd3,data/raw/mvtec/bottle/bottle/test/good/005.png,"Everything is fine, no issues",False,Other,good,Low,,test,v1.0.0,319499576
+good_006_ec6e06ed,data/raw/mvtec/bottle/bottle/test/good/006.png,"Product arrived in excellent condition, thank yoou",False,Other,good,Low,,test,v1.0.0,2582345578
+good_007_80a6e62a,data/raw/mvtec/bottle/bottle/test/good/007.png,كل شىء تمام لا ىوجد مششاكل 💯✨,False,Other,good,Low,,test,v1.0.0,1892226206
+good_008_0f1fbbc6,data/raw/mvtec/bottle/bottle/test/good/008.png,"Everything is fine, no issues",False,Other,good,Low,,validation,v1.0.0,3080996660
+good_009_ea8bc3b9,data/raw/mvtec/bottle/bottle/test/good/009.png,المنتج وصل بحالة ممتازة، شكررراً,False,Other,good,Low,,validation,v1.0.0,1659942377
+good_010_12a124f5,data/raw/mvtec/bottle/bottle/test/good/010.png,المنتج مطابق للوصف وببببحاله ممتازة,False,Other,good,Low,,test,v1.0.0,2705573241
+good_011_7043be5f,data/raw/mvtec/bottle/bottle/test/good/011.png,كل شىىء تمام، لا يوجد مشاكلل 👍👍,False,Other,good,Low,,validation,v1.0.0,2243959958
+good_012_52f2aac2,data/raw/mvtec/bottle/bottle/test/good/012.png,الزجاجة سليمة وجودتها جيده,False,Other,good,Low,,test,v1.0.0,1325372061
+good_013_8ec2fa9f,data/raw/mvtec/bottle/bottle/test/good/013.png,Bottle is intact and quality is good 😊,False,Other,good,Low,,validation,v1.0.0,397538507
+good_014_d4d2ca7f,data/raw/mvtec/bottle/bottle/test/good/014.png,"Everything is fiiine, no issues",False,Other,good,Low,,test,v1.0.0,883829620
+good_015_63d17758,data/raw/mvtec/bottle/bottle/test/good/015.png,المنتج وصل بحالة ممتازه، شكراً 💯👍,False,Other,good,Low,,test,v1.0.0,1164572997
+good_016_1d11b7cb,data/raw/mvtec/bottle/bottle/test/good/016.png,"Everything is fine, no issues",False,Other,good,Low,,test,v1.0.0,1974941842
+good_017_070b045b,data/raw/mvtec/bottle/bottle/test/good/017.png,prduct matches description aand is in perfect condition 👍👌,False,Other,good,Low,,validation,v1.0.0,1006342342
+good_018_8269d7d3,data/raw/mvtec/bottle/bottle/test/good/018.png,كل شىء تمام، لا يوجد مشاكل,False,Other,good,Low,,test,v1.0.0,1682820048
+good_019_f27f5b98,data/raw/mvtec/bottle/bottle/test/good/019.png,Bottle is intact and qualty is good,False,Other,good,Low,,validation,v1.0.0,940713898

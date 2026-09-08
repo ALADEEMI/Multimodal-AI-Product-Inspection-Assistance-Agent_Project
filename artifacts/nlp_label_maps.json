@@ -1,0 +1,26 @@
+{
+  "problem_to_idx": {
+    "Quality": 0,
+    "Packaging": 1,
+    "Price": 2,
+    "Delivery": 3,
+    "Damage": 4,
+    "Other": 5
+  },
+  "idx_to_problem": {
+    "0": "Quality",
+    "1": "Packaging",
+    "2": "Price",
+    "3": "Delivery",
+    "4": "Damage",
+    "5": "Other"
+  },
+  "problem_types": [
+    "Quality",
+    "Packaging",
+    "Price",
+    "Delivery",
+    "Damage",
+    "Other"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text_only": {
+    "complaint_acc": 0.2619047619047619,
+    "complaint_f1": 0.0,
+    "problem_acc": 0.2619047619047619,
+    "problem_macro_f1": 0.13836477987421383
+  },
+  "image_only": {
+    "complaint_acc": 0.2619047619047619,
+    "complaint_f1": 0.0,
+    "problem_acc": 0.2619047619047619,
+    "problem_macro_f1": 0.13836477987421383
+  },
+  "multimodal_fusion": {
+    "complaint_acc": 0.2619047619047619,
+    "complaint_f1": 0.0,
+    "problem_acc": 0.2619047619047619,
+    "problem_macro_f1": 0.13836477987421383
+  }
+}

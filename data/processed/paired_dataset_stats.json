@@ -1,0 +1,14 @@
+{
+  "total": 292,
+  "train": 209,
+  "validation": 41,
+  "test": 42,
+  "complaints": 63,
+  "problem_distribution": {
+    "Other": 229,
+    "Damage": 42,
+    "Quality": 21
+  },
+  "generator_version": "v1.0.0",
+  "base_seed": 42
+}
